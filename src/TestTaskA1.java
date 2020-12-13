@@ -40,4 +40,5 @@ public class TestTaskA1 {
             unPart+=fact(i);
         return (1/(double)fact(n))*unPart;
     }
+
 }
